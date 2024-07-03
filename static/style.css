@@ -1,0 +1,61 @@
+html{
+    background-color: black;
+}
+
+@font-face {
+    font-family: web;
+    src: url(web1.ttf);
+}
+
+button{
+    font-family: cursive;
+    font-size: x-large;
+    background-color: red;
+    color: white;
+    box-shadow: 10px rgb(255, 255, 255);
+    border-color: red;
+
+}
+
+button:hover{
+    background-color: lightgray;
+    color: black;
+    border-color: lightgray;
+    cursor: pointer;
+}
+
+.yt{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+    width: 180px;
+    height: 70px;
+    border-radius: 2cm;
+
+}
+
+
+
+h1{
+    font-size: 70px;
+    font-family: cursive;
+    text-align: center;
+    color: red;
+    
+}
+
+
+p{
+    font-family: cursive;
+    
+
+}
+
+
+
+
+
+
+
+
